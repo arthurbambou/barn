@@ -14,7 +14,6 @@ buildscript {
 		classpath "cuchaz:enigma-cli:${project.enigma_version}"
 		classpath "babric:stitch:${project.stitch_version}"
 		classpath "net.fabricmc:name-proposal:${project.name_proposal_version}"
-		// classpath "net.fabricmc:tiny-remapper:0.8.6"
 	}
 }
 
